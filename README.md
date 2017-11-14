@@ -1,1 +1,1 @@
-# JavaConsole-basics
+# Basic Java console practices
