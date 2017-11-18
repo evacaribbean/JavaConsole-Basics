@@ -14,7 +14,7 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 
 <br>
 
- ▶ b01Wazzup.java
+- [x] b01Wazzup.java
  ``` javascript
  class b01Wazzup  {
 	
@@ -26,7 +26,7 @@ First out, a few input Java classes. Why not write a little Java program (Java s
  ``` 
 <br>
 
-▶ b02WazzupCls.java
+- [x] b02WazzupCls.java
  ``` javascript
 class b02WazzupCls  {
 	
@@ -41,7 +41,7 @@ class b02WazzupCls  {
  ```
 <br>
 
-- [x] b03WazzupRocket.java
+- [ ] b03WazzupRocket.java
  ``` 
  On it's way... 🐋 .🐠..
  ```
