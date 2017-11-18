@@ -42,7 +42,7 @@ class b02WazzupCls	 {
 <br>
 
  b03WazzupRocket.java
- ``` javascript
+ ``` 
  On it's way... 🐋
  ```
 
