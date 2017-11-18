@@ -26,7 +26,7 @@ First out, a few input Java classes. Why not write a little Java program (Java s
  ``` 
 <br>
 
-✅ b02WazzupCls.java
+♻ b02WazzupCls.java
  ``` javascript
 class b02WazzupCls  {
 	
