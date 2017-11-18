@@ -10,7 +10,7 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 
 > b01Wazzup.java &nbsp; &nbsp;b02WazzupCls.java &nbsp; &nbsp;b03WazzupRocket.java 
 
-<br><br>
+<br>
 
  ✅ b01Wazzup.java
  ``` javascript
