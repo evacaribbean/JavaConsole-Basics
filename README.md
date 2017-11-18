@@ -52,6 +52,8 @@ Additional notes and comments will be in each `class file`.
 
 ## Input/Output
 <br>
-More to come... <br><br>
- 
 
+
+> b04.java &nbsp; &nbsp;b05.java &nbsp; &nbsp;b06.java &nbsp; &nbsp;b07.java  
+
+More to come... <br><br>
