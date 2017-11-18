@@ -7,4 +7,4 @@ It's fun to as soon as possible start "talking with" the prompt. So input/output
 
 First out, a few input Java classes. Why not write a little Java program (Java source code) that the Java compiler (javac) will compile into bytecodes. For the Java's virtual machine (JVM) to execute. A code saying: <i>Hi, wazzup?!</i> 😄.<br>
 
-And...
+ 
