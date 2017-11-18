@@ -58,6 +58,6 @@ More to come... <br><br>
 - [ ] b 06
 - [ ] b 07
 
-- [x] Finish my changes
+- [x] b 04
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
