@@ -15,7 +15,7 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 <br>
 
  ✅ b01Wazzup.java
- ``` ruby
+ ``` java
  class b01Wazzup	 {
 	
 	public static void main(String[] args) {  
