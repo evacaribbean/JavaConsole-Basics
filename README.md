@@ -42,5 +42,5 @@ class b02WazzupCls	 {
 
  <br>
 
- I think you should use an
-`<addr>` element here instead.
+ A test of a
+`<addr>` element here.
