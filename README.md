@@ -47,4 +47,4 @@ class b02WazzupCls	 {
  ```
 
 <br>
-Soon text on `<WazzupCls>`.
+Soon text on `<WazzupCls>` abc efg hij åäö.
