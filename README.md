@@ -48,3 +48,8 @@ class b02WazzupCls  {
 
 <br>
 Additional notes and comments will be in each `class file`.
+<br>
+
+## Input/Output
+
+Soon more...
