@@ -42,12 +42,12 @@ class b02WazzupCls  {
 <br>
 
 - [x] b03WazzupRocket.java
- ``` 
+  
  On it's way... 🐋 .🐠..
- ```
+ 
 <br>
 
-Additional notes and comments will be in each class file.
+Additional notes and comments will be in each `class file`.
 <br><br><br><br>
 
 ## Input/Output
