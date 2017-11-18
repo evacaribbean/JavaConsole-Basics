@@ -53,14 +53,11 @@ Additional notes and comments will be in each `class file`.
 ## Input/Output
 <br>
 More to come... <br><br>
-- [x] b 04
-- [ ] b 05
-- [ ] b 06
-- [ ] b 07
-- [ ] b07
-- [ ] b 04
-- [ ] b 05
-- [ ] b 06
-- [ ] b 07
+- [x] Fin changes
+- [ ] Push commits to GitHub
+- [ ] b04
+- [ ] b05
+<br>
+- [ ] \(Optional) Open a followup issue
 
 
