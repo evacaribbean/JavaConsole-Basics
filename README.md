@@ -52,6 +52,4 @@ Additional notes and comments will be in each `class file`.
 
 ## Input/Output
 <br>
-> b01Wazzup.java &nbsp; &nbsp;b02WazzupCls.java &nbsp; &nbsp;b03WazzupRocket.java  
-
 More to come... <br><br>
