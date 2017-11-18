@@ -39,8 +39,12 @@ class b02WazzupCls	 {
 	}
 } 
  ```
+<br>
 
- <br>
+ b03WazzupRocket.java
+ ``` javascript
+ On it's way... 🐋
+ ```
 
- A test of a
-`<addr>` element here.
+<br>
+Soon text on `<WazzupCls>`.
