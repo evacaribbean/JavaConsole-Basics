@@ -1,5 +1,7 @@
 # Basic Java Console Practices 🎄🎅
 
+<br>
+
 Hi!
 This will be a repo with Java console practices that are the basics - first practices.<br>
 
