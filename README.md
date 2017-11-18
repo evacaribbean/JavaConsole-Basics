@@ -31,7 +31,7 @@ class b02WazzupCls	 {
 		System.out.println("Hi, wazzup?!");
 
 		for (int i=0; i<60; i++)
-    	System.out.println();
+    	    System.out.println();
 	}
 } 
  ```
