@@ -52,8 +52,8 @@ Additional notes and comments will be in each `class file`.
 
 ## Input/Output
 <br>
-More to come... <br>
-- [] b04
-- [] b05
-- [] b06
-- [] b07
+More to come... <br><br>
+- [ ] b04
+- [ ] b05
+- [ ] b06
+- [ ] b07
