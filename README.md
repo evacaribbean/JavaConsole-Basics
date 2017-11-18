@@ -47,4 +47,4 @@ class b02WazzupCls	 {
  ```
 
 <br>
-Text on `<WazzupCls>`  .
+Comments to the code files will be in each `<class file>`.
