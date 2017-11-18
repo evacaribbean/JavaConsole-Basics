@@ -15,19 +15,19 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 <br>
 
 - [x] b01Wazzup.java
- ``` javascript
- class b01Wazzup  {
+``` javascript
+class b01Wazzup  {
 	
 	public static void main(String[] args) {  
 
 		System.out.println("Hi, wazzup?!"); 	
 	}
 } 
- ``` 
+``` 
 <br>
 
 - [x] b02WazzupCls.java
- ``` javascript
+``` javascript
 class b02WazzupCls  {
 	
 	public static void main(String[] args) {  
@@ -38,13 +38,13 @@ class b02WazzupCls  {
     	    System.out.println();
 	}
 } 
- ```
+```
 <br>
 
 - [ ] b03WazzupRocket.java
- ``` 
+``` 
  On it's way... 🐋 .🐠..
- ```
+```
 <br>
 
 Additional notes and comments will be in each `class file`.
@@ -52,4 +52,4 @@ Additional notes and comments will be in each `class file`.
 
 ## Input/Output
 <br>
-More to come... &nbsp; ⛷<br><br>
+- [ ] More to come... &nbsp; ⛷<br><br>
