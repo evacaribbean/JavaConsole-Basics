@@ -53,7 +53,7 @@ Additional notes and comments will be in each `class file`.
 ## Input/Output
 <br>
 More to come... <br><br>
-- [ ] b04
-- [ ] b05
-- [ ] b06
-- [ ] b07
+- [ ] b04<br>
+- [ ] b05<br>
+- [ ] b06<br>
+- [ ] b07<br>
