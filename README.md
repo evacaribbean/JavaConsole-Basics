@@ -53,8 +53,7 @@ Additional notes and comments will be in each `class file`.
 ## Input/Output
 <br>
 More to come... <br><br>
-- [x] examples
+- [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
-
 
