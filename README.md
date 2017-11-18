@@ -26,7 +26,7 @@ class b01Wazzup  {
 ``` 
 <br>
 
-- [x] b02WazzupCls.java
+☂ b02WazzupCls.java
 ``` javascript
 class b02WazzupCls  {
 	
