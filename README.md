@@ -16,3 +16,19 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 		System.out.println("Hi, wazzup?!"); 	
 	}
 } 
+
+<br>
+
+ ✅ b02WazzupCls.java
+ ```
+class b02WazzupCls	 {
+	
+	public static void main(String[] args) {  
+
+		System.out.println("Hi, wazzup?!");
+
+		for (int i=0; i<60; i++)
+    		System.out.println();
+	}
+} 
+ ```
