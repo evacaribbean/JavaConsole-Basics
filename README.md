@@ -41,7 +41,7 @@ class b02WazzupCls	 {
  ```
 <br>
 
-- [ ] b03WazzupRocket.java
+- [x] b03WazzupRocket.java
  ``` 
  On it's way... 🐋 .🐠..
  ```
