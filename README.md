@@ -19,11 +19,11 @@ First out, a few input Java classes. Why not write a little Java program (Java s
 		System.out.println("Hi, wazzup?!"); 	
 	}
 } 
- ``` javascript
+ ``` 
  <br>
 
  ✅ b02WazzupCls.java
- ```
+ ``` javascript
 class b02WazzupCls	 {
 	
 	public static void main(String[] args) {  
