@@ -20,7 +20,7 @@ class b01Wazzup  {
 	
 	public static void main(String[] args) {  
 
-		System.out.println("Hay, wazzap!"); 	
+		System.out.println("Hay, Wazzap!"); 	
 	}
 } 
 ``` 
@@ -32,7 +32,7 @@ class b02WazzupCls  {
 	
 	public static void main(String[] args) {  
 
-		System.out.println("Hay, wazzap!");
+		System.out.println("Hay, Wazzap!");
 
 		for (int i=0; i<60; i++)
     	    System.out.println();
