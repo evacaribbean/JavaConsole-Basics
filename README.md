@@ -43,7 +43,7 @@ class b02WazzupCls  {
 
 ☑ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
- On it's way... 🐳 .🐠..
+ On it's way... 🐳🐬 .🐠..
 ```
 <br>
 
