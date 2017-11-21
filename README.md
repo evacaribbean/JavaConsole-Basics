@@ -47,7 +47,7 @@ class b02WazzupCls  {
 ```
 <br>
 
-Additional notes and comments will be in each `class file`.
+Additional notes and comments will be in each `Java file`.
 <br><br><br><br>
 
 ## Input/Output
