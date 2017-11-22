@@ -12,9 +12,9 @@ class b02WazzupCls	 {
 
 
 	
-/*							********************
-							*   Clear screen   * 
-							********************
+/*                           ********************
+                             *   Clear screen   * 
+                             ********************
 
 	Java doesn't seem to have a cls command, clearing the screen.
 
