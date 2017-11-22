@@ -39,7 +39,7 @@ class b02WazzupCls	 {
 	i<60    ... and loops 60 times (less than 60, starts at 0)
 	i++     ... every time increasing with 1. 
 
-	println();	
+	println();
 			means to print something on an own line (new line). And as this line is empty 
 			there will be 60 empty lines before the prompt line shows up again.
 
