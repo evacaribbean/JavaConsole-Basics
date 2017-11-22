@@ -40,8 +40,8 @@ class b02WazzupCls	 {
 	i++     ... every time increasing with 1. 
 
 	println();	
-			means to print something on an own line (new line). And as this line is empty 
-			there will be 60 empty lines before the prompt line shows up again.
+            means to print something on an own line (new line). And as this line is empty 
+            there will be 60 empty lines before the prompt line shows up again.
 
 
 	:) Later on, knowing more, I'll come back to cls. :)
