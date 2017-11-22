@@ -43,7 +43,7 @@ class b02WazzupCls  {
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
-. .🐠..
+On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
@@ -56,7 +56,7 @@ Additional notes and comments will be in each `Java file`.
 
 ## Input/Output
 <br>
-☑ &nbsp; <b>b04FortuneNumbers.java</b><br>
+☑ &nbsp; <b>b04FortuneNumbers.java</b>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
