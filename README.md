@@ -43,7 +43,7 @@ class b02WazzupCls  {
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
-Soon up .🐠..
+. .🐠..
 ```
 <br>
 
@@ -56,19 +56,19 @@ Additional notes and comments will be in each `Java file`.
 
 ## Input/Output
 <br>
-☑ &nbsp; <b>b04FortuneNumbers.java</b>
+☑ &nbsp; <b>b04FortuneNumbers.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b05AdditionMaker.java</b>
+☑ &nbsp; <b>b05AdditionMaker.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b06...</b>
+☑ &nbsp; <b>b06...</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
@@ -80,19 +80,19 @@ On it's way... 🐳🐬. .🐠..
 
 ## Variables and concatenation 
 <br>
-☑ &nbsp; <b>b07TeamCatAn'Dog.java</b>
+☑ &nbsp; <b>b07TeamCatAn'Dog.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b08LibraryLauncher.java</b>
+☑ &nbsp; <b>b08LibraryLauncher.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b09...</b>
+☑ &nbsp; <b>b09...</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
