@@ -33,8 +33,8 @@ class b02WazzupCls   {
 	As c-charp runs "in its own" .NET environment this is solved by: Console.Clear();
 
 	Java
-	Here, the "b02WazzupCls.java" emulates the behaviour of a cls. Simply by adding 60 empty
-	print lines to the command prompt. 
+	Here, the WazzupCls.java emulates the behaviour of a cls. Simply by adding 60 empty print
+	lines to the command prompt. 
 
 	i=0     means that "i" starts at 0
 	i<60    ... and loops 60 times (less than 60, starts at 0)
