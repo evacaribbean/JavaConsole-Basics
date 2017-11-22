@@ -37,7 +37,7 @@ class b02WazzupCls	 {
 
 	i=0 	means that "i" starts at 0
 	i<60	... and loops 60 times (less than 60, starts at 0)
-	i++		... every time increasing with 1. 
+	i++     ... every time increasing with 1. 
 
 	println();	
             means to print something on an own line (new line). And as this line is empty 
