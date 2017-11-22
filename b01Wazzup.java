@@ -1,5 +1,5 @@
 
-class b01Wazzup	 {
+class b01Wazzup	{
 	
 	public static void main(String[] args) {  
 
