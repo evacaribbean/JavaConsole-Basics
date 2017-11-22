@@ -4,7 +4,7 @@ class b03WazzupRocket {
 	
 	public static void main(String[] args) { 
 	 
-			for (int i=0; i<30; i++)
+		for (int i=0; i<30; i++)
 			System.out.println();	
     	
  		System.out.println("                                                1´");
