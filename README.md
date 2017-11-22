@@ -55,8 +55,10 @@ Additional notes and comments will be in each `Java file`.
 
 
 ## Input/Output
+
 <br>
-☑ &nbsp; <b>b04FortuneNumbers.java</b>
+
+☑ &nbsp; <b>b04FortuneNumbers.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
@@ -79,7 +81,9 @@ On it's way... 🐳🐬. .🐠..
 
 
 ## Variables and concatenation 
+
 <br>
+
 ☑ &nbsp; <b>b07TeamCatAn'Dog.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
