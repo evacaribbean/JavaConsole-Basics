@@ -41,15 +41,69 @@ class b02WazzupCls  {
 ```
 <br>
 
-☑ &nbsp; <b>b03WazzupRocket.java</b>
+✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
- On it's way... 🐳🐬. .🐠..
+Soon up .🐠..
 ```
 <br>
 
 Additional notes and comments will be in each `Java file`.
+
 <br><br><br><br>
+
+
+
 
 ## Input/Output
 <br>
+☑ &nbsp; <b>b04FortuneNumbers.java</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+<br>
+
+☑ &nbsp; <b>b05AdditionMaker.java</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+<br>
+
+☑ &nbsp; <b>b06...</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+ 
+<br><br><br><br>
+
+
+
+
+## Variables and concatenation 
+<br>
+☑ &nbsp; <b>b07TeamCatAn'Dog.java</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+<br>
+
+☑ &nbsp; <b>b08LibraryLauncher.java</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+<br>
+
+☑ &nbsp; <b>b09...</b>
+``` 
+On it's way... 🐳🐬. .🐠..
+```
+ 
+<br><br><br><br>
+
+
+
+
+## Statments, loops and branching 
+<br>
 More to come... &nbsp; ⛷<br><br>
+
+<br><br><br><br>
