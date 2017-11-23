@@ -43,7 +43,31 @@ class b02WazzupCls  {
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
-On it's way... 🐳🐬. .🐠..
+class b03WazzupRocket {
+	
+	public static void main(String[] args) { 
+	 
+		for (int i=0; i<30; i++)
+		System.out.println();	
+    	
+ 		System.out.println("                                                  1´");
+ 		System.out.println("                                              0´");
+ 		System.out.println("                                            ´\n\n"); 		  		 	
+ 		System.out.println("                                      *");
+ 		System.out.println("                                    *");
+ 		System.out.println("                                 * *");
+ 		System.out.println("                              *     *");
+ 		System.out.println("                            *        *");
+ 		System.out.println("                           *         *");
+ 		System.out.println("                          *         *");
+ 		System.out.println("                         *         *              Hay, Wazzaaaap! :)       ´");
+ 		System.out.println("                        *         *                                     ´");
+ 		System.out.println("                      *          *                                     ~~");
+ 		System.out.println("                    *     *      *                                    /  \\");
+ 		System.out.println("                 *      *    *    *                                  |oo  <");
+ 		System.out.println("               *     *         *   *                                  \\= /");
+ 		
+ 		System.o... continues in the b03 java file :)
 ```
 <br>
 

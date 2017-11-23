@@ -7,10 +7,9 @@ class b03WazzupRocket {
 		for (int i=0; i<30; i++)
 		System.out.println();	
     	
- 		System.out.println("                                                1´");
- 		System.out.println("                                            0´");
- 		System.out.println("                                          ´");
- 		System.out.println(""); 		 	
+ 		System.out.println("                                                  1´");
+ 		System.out.println("                                              0´");
+ 		System.out.println("                                            ´\n\n"); 		  		 	
  		System.out.println("                                      *");
  		System.out.println("                                    *");
  		System.out.println("                                 * *");
@@ -29,7 +28,7 @@ class b03WazzupRocket {
  		System.out.println("                                                                 \\  /' \\/'\\ \\");
  		System.out.println("                       0                                          \\/ ' * '| |");
  		System.out.println("                  q         0  * l                                   | * || |");
- 		System.out.println("                                o                                    '___'  #");
+ 		System.out.println("                                o                                    '___' #");
  		System.out.println("                  * p  *                                             (   )          ...yhaaow, Long time no 0!");
  		System.out.println("                                                                     | | |");
  		System.out.println("                    ~      H O                                       | | |");  
