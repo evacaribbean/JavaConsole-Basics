@@ -41,7 +41,7 @@ class b02WazzupCls {
 	i++     ... every time increasing with 1. 
 
 	println();
-	        ... to print something on an own line (new line). And as this line is empty 
+	        ... to print something on an own line (new line). As this line is empty 
 	        there will be 60 empty lines before the prompt line shows up again.
 
 
