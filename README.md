@@ -42,7 +42,7 @@ class b02WazzupCls  {
 <br>
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
-``` 
+``` javascript
 class b03WazzupRocket {
 	
 	public static void main(String[] args) { 
