@@ -35,7 +35,7 @@ class b02WazzupCls  {
 		System.out.println("Hay, Wazzap!");
 
 		for (int i=0; i<60; i++)
-    	    System.out.println();
+    	System.out.println();
 	}
 } 
 ```
@@ -43,7 +43,7 @@ class b02WazzupCls  {
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
-On it's way... 🐳🐬. .🐠..
+... 🐳🐬. .🐠..
 ```
 <br>
 
@@ -58,6 +58,10 @@ Additional notes and comments will be in each `Java file`.
 
 <br>
 
+> b04FortuneNumbers.java &nbsp; &nbsp;b05AdditionMaker.java &nbsp; &nbsp;b06.java
+
+<br>
+
 ☑ &nbsp; <b>b04FortuneNumbers.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
@@ -66,13 +70,13 @@ On it's way... 🐳🐬. .🐠..
 
 ☑ &nbsp; <b>b05AdditionMaker.java</b><br>
 ``` 
-On it's way... 🐳🐬. .🐠..
+...
 ```
 <br>
 
 ☑ &nbsp; <b>b06 ...</b><br>
 ``` 
-On it's way... 🐳🐬. .🐠..
+...
 ```
  
 <br><br><br><br>
@@ -92,13 +96,13 @@ On it's way... 🐳🐬. .🐠..
 
 ☑ &nbsp; <b>b08LibraryLauncher.java</b><br>
 ``` 
-On it's way... 🐳🐬. .🐠..
+...
 ```
 <br>
 
 ☑ &nbsp; <b>b09 ...</b><br>
 ``` 
-On it's way... 🐳🐬. .🐠..
+...
 ```
  
 <br><br><br><br>
