@@ -58,7 +58,7 @@ Additional notes and comments will be in each `Java file`.
 
 <br>
 
-> b04FortuneNumbers.java &nbsp; &nbsp;b05AdditionMaker.java &nbsp; &nbsp;b06.java
+> b04FortuneNumbers.java &nbsp; &nbsp;b05AdditionMaker.java &nbsp; &nbsp;b06[something].java
 
 <br>
 
@@ -74,7 +74,7 @@ On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b06 ...</b><br>
+☑ &nbsp; <b>b06[something].java</b><br>
 ``` 
 ...
 ```
@@ -85,6 +85,10 @@ On it's way... 🐳🐬. .🐠..
 
 
 ## Variables and concatenation 
+
+<br>
+
+> b07TeamCatAn'Dog.java &nbsp; &nbsp;b08LibraryLauncher.java &nbsp; &nbsp;b09[something].java
 
 <br>
 
@@ -100,7 +104,7 @@ On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b09 ...</b><br>
+☑ &nbsp; <b>b09[something].java</b><br>
 ``` 
 ...
 ```
