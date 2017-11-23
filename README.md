@@ -35,7 +35,7 @@ class b02WazzupCls  {
 		System.out.println("Hay, Wazzap!");
 
 		for (int i=0; i<60; i++)
-    	System.out.println();
+		System.out.println();
 	}
 } 
 ```
@@ -43,7 +43,7 @@ class b02WazzupCls  {
 
 ✅ &nbsp; <b>b03WazzupRocket.java</b>
 ``` 
-... 🐳🐬. .🐠..
+On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
