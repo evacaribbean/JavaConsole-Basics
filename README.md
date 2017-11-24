@@ -69,7 +69,7 @@ class b03WazzupRocket {
  		
  		>> continues in the b03 java file :)
 ```
-<br><br>
+<br>
 
 Additional notes and comments will be in each `Java file`.
 
@@ -116,12 +116,12 @@ class b06ClockTable	{
 		System.out.println("                                   7 _ 5");
 
 		for (int i=0; i<6; i++)
-    	System.out.println();
+		System.out.println();
 
-		Scanner scan = new Scanner(System.in);		
-		int num;		 
+		Scanner scan = new Scanner(System.in);
+		int num;
 
-    	>> continues in the b06 java file :)  
+		>> continues in the b06 java file :)  
 ```
  
 <br><br><br><br>
