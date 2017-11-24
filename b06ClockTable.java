@@ -18,11 +18,11 @@ class b06ClockTable {
 		System.out.println();
 
 		Scanner scan = new Scanner(System.in);		
-		int num;		 
+		int num;
 
-    	System.out.println("\tPress a number an'enter to see a list of different watch brands\n\n");
-    	num = scan.nextInt();
-    	System.out.println("\n");	
+		System.out.println("\tPress a number an'enter to see a list of different watch brands\n\n");
+		num = scan.nextInt();
+		System.out.println("\n");	
      
 		System.out.println("\t\tQuartz\tCasio\tEyki\tGul\tCertina\n");
 		System.out.println("\t\tSkagen\tSwatch\tEdox\tTriwa\tTissot\n");
