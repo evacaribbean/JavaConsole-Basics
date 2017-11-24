@@ -19,7 +19,7 @@ class b06ClockTable {
 		Scanner scan = new Scanner(System.in);		
 		int num;
 
-		System.out.println("\tPress a number an'enter to see a list of different watch brands\n\n");
+		System.out.println("\tPress a number an'enter, to see a list of different watch brands\n\n");
 		num = scan.nextInt();
 		System.out.println("\n");	
      
