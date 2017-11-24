@@ -5,7 +5,7 @@ class b06ClockTable {
 	public static void main(String[] args) {  
 
 		for (int i=0; i<30; i++)
-			System.out.println();		 
+		System.out.println();		 
 		System.out.println("                                     _");
 		System.out.println("                                   11  1");
 		System.out.println("                                 10  |   2");
@@ -15,7 +15,7 @@ class b06ClockTable {
 		System.out.println("");
 
 		for (int i=0; i<5; i++)
-    	System.out.println();
+		System.out.println();
 
 		Scanner scan = new Scanner(System.in);		
 		int num;		 
