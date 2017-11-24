@@ -67,9 +67,9 @@ class b03WazzupRocket {
  		System.out.println("                 *      *    *    *                                  |oo  <");
  		System.out.println("               *     *         *   *                                  \\= /");
  		
- 		System.ou... continues in the b03 java file :)
+ 		>> continues in the b03 java file :)
 ```
-<br>
+<br><br>
 
 Additional notes and comments will be in each `Java file`.
 
@@ -121,9 +121,7 @@ class b06ClockTable	{
 		Scanner scan = new Scanner(System.in);		
 		int num;		 
 
-    	System.ou... continues in the b06 java file :) 
-	}
-} 
+    	>> continues in the b06 java file :)  
 ```
  
 <br><br><br><br>
