@@ -1,5 +1,4 @@
 
-
 class b03WazzupRocket {
 	
 	public static void main(String[] args) { 
