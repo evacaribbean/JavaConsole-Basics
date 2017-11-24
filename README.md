@@ -98,7 +98,7 @@ On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b06ClockTable.java</b><br>
+✅ &nbsp; <b>b06ClockTable.java</b><br>
 ``` javascript
 import java.util.Scanner;
 
@@ -107,17 +107,15 @@ class b06ClockTable	{
 	public static void main(String[] args) {  
 
 		for (int i=0; i<30; i++)
-    	System.out.println();
-		 
+		System.out.println();
 		System.out.println("                                     _");
 		System.out.println("                                   11  1");
 		System.out.println("                                 10  |   2");
 		System.out.println("                                -    *__  -");
 		System.out.println("                                 8       4");
 		System.out.println("                                   7 _ 5");
-		System.out.println("");
 
-		for (int i=0; i<5; i++)
+		for (int i=0; i<6; i++)
     	System.out.println();
 
 		Scanner scan = new Scanner(System.in);		
