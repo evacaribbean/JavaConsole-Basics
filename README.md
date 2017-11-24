@@ -67,7 +67,7 @@ class b03WazzupRocket {
  		System.out.println("                 *      *    *    *                                  |oo  <");
  		System.out.println("               *     *         *   *                                  \\= /");
  		
- 		System.o... continues in the b03 java file :)
+ 		System.ou... continues in the b03 java file :)
 ```
 <br>
 
@@ -123,14 +123,7 @@ class b06ClockTable	{
 		Scanner scan = new Scanner(System.in);		
 		int num;		 
 
-    	System.out.println("\tPress a number an'enter to see a list of different watch brands\n\n");
-    	num = scan.nextInt();
-    	System.out.println("\n");	
-     
-		System.out.println("\t\tQuartz\tCasio\tEyki\tGul\tCertina\n");
-		System.out.println("\t\tSkagen\tSwatch\tEdox\tTriwa\tTissot\n");
-		System.out.println("\t\tMorris\tGant\tSwiss\tFossil\tMockberg\n");
- 	 	System.out.println("\t\tDisel\tCarl Edmond\tGiorgio Fedon\n\n\n\n");
+    	System.ou... continues in the b06 java file :) 
 	}
 } 
 ```
