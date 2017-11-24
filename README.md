@@ -16,7 +16,7 @@ First out, a few output Java classes. Why not write a few small Java programs th
 
 ✅ &nbsp; <b>b01Wazzup.java</b>
 ``` javascript
-class b01Wazzup  {
+class b01Wazzup {
 	
 	public static void main(String[] args) {  
 
@@ -28,7 +28,7 @@ class b01Wazzup  {
 
 ✅ &nbsp; <b>b02WazzupCls.java</b>
 ``` javascript
-class b02WazzupCls  {
+class b02WazzupCls {
 	
 	public static void main(String[] args) {  
 
@@ -102,7 +102,7 @@ On it's way... 🐳🐬. .🐠..
 ``` javascript
 import java.util.Scanner;
 
-class b06ClockTable	{
+class b06ClockTable {
 	
 	public static void main(String[] args) {  
 
