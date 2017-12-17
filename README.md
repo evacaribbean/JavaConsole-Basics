@@ -92,7 +92,7 @@ On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
-☑ &nbsp; <b>b05AdditionMaker.java</b><br>
+✅ &nbsp; <b>b05AdditionMaker.java</b><br>
 ``` javascript
 import java.util.Scanner;
 
