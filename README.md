@@ -93,8 +93,22 @@ On it's way... 🐳🐬. .🐠..
 <br>
 
 ☑ &nbsp; <b>b05AdditionMaker.java</b><br>
-``` 
-...
+``` javascript
+import java.util.Scanner;
+
+class b05AdditionMaker {
+
+	public static void main(String[] args) {
+
+		System.out.println("\n\n\n\t*  Welcome to the Additon Maker  *\n\n\t    Add three numbers and the \n\t     sum will be calculated!\n\n");
+
+		Scanner write = new Scanner(System.in);
+		int n1;
+		int n2;
+		int n3;
+		int sum;
+
+		>> continues in the b05 java file :) 
 ```
 <br>
 
