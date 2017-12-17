@@ -82,11 +82,11 @@ Additional notes and comments will be in each `Java file`.
 
 <br>
 
-> b04FortuneNumbers.java &nbsp; &nbsp;b05AdditionMaker.java &nbsp; &nbsp;b06ClockTable.java
+> b04FortuneNumTelling.java &nbsp; &nbsp;b05AdditionMaker.java &nbsp; &nbsp;b06ClockTable.java
 
 <br>
 
-☑ &nbsp; <b>b04FortuneNumbers.java</b><br>
+☑ &nbsp; <b>b04FortuneNumTelling.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
