@@ -90,7 +90,7 @@ Additional notes and comments will be in each `Java file`.
 ``` javascript
 import java.util.Scanner;
 
-class Po {
+class b04FortuneNumTelling {
 
 	public static void main(String[] args) {
 
