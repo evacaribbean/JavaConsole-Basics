@@ -105,7 +105,7 @@ class Po {
 	 	String s7 = "* You only need look to your own reflection for inspiration. Because you are Beautiful! *";
 	 	String s8 = "* Rivers need springs *";
 
-	 	>> continues in the b05 java file >> 
+	 	>> continues in the b04 java file >> 
 ```
 <br>
 
