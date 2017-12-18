@@ -86,9 +86,26 @@ Additional notes and comments will be in each `Java file`.
 
 <br>
 
-☑ &nbsp; <b>b04FortuneNumTelling.java</b><br>
-``` 
-On it's way... 🐳🐬. .🐠..
+✅ &nbsp; <b>b04FortuneNumTelling.java</b><br>
+``` javascript
+import java.util.Scanner;
+
+class Po {
+
+	public static void main(String[] args) {
+
+		Scanner userMessage = new Scanner(System.in);
+	 	int n1; 
+	 	String s1 = "* A thrilling time is in your immediate future *";
+	 	String s2 = "* Your fondest dream will come true within this year *";
+	 	String s3 = "* You have a deep interest in all that is artistic *";
+	 	String s4 = "* Good health will be yours for a long time *";
+	 	String s5 = "* Failure is only the opportunity to begin again more intelligently *";
+	 	String s6 = "* Never upset the driver of the car you're in; they're the master of your destiny until you get home *";
+	 	String s7 = "* You only need look to your own reflection for inspiration. Because you are Beautiful! *";
+	 	String s8 = "* Rivers need springs *";
+
+	 	>> continues in the b05 java file >> 
 ```
 <br>
 
