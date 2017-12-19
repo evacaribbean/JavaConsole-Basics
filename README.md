@@ -100,10 +100,11 @@ class b04FortuneNumTelling {
 	 	String s2 = "* Your fondest dream will come true within this year *";
 	 	String s3 = "* You have a deep interest in all that is artistic *";
 	 	String s4 = "* Good health will be yours for a long time *";
-	 	String s5 = "* Failure is only the opportunity to begin again more intelligently *";
+	 	String s5 = "* A single conversation with a wise man is better than ten years of study *";
 	 	String s6 = "* Never upset the driver of the car you're in; they're the master of your destiny until you get home *";
 	 	String s7 = "* You only need look to your own reflection for inspiration. Because you are Beautiful! *";
-	 	String s8 = "* Rivers need springs *";
+	 	String s8 = "* The time is alway right to do what is right *";
+	 	String s9 = "* Rivers need springs *";
 
 	 	>> continues in the b04 java file >> 
 ```
