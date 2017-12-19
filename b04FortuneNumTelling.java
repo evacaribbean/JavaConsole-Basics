@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Po {
+class b04FortuneNumTelling {
 
 	public static void main(String[] args) {
 
@@ -10,13 +10,13 @@ class Po {
 	 	String s2 = "* Your fondest dream will come true within this year *";
 	 	String s3 = "* You have a deep interest in all that is artistic *";
 	 	String s4 = "* Good health will be yours for a long time *";
-	 	String s5 = "* Failure is only the opportunity to begin again more intelligently *";
+	 	String s5 = "* A single conversation with a wise man is better than ten years of study *";
 	 	String s6 = "* Never upset the driver of the car you're in; they're the master of your destiny until you get home *";
 	 	String s7 = "* You only need look to your own reflection for inspiration. Because you are Beautiful! *";
-	 	String s8 = "* Rivers need springs *";
-	 	String s9 = "* Good news from afar may bring you a welcome visitor *";
-	 	String s10 = "* You already know the answer to the questions lingering inside your head *";
-	 	String s11 = "* A single conversation with a wise man is better than ten years of study *";
+	 	String s8 = "* The time is alway right to do what is right *";
+	 	String s9 = "* Rivers need springs *";
+	 	String s10 = "* Good news from afar may bring you a welcome visitor *";
+	 	String s11 = "* You already know the answer to the questions lingering inside your head *";	 	 
 	 	String s12 = "* Integrity is doing the right thing, even if nobody is watching *";
 	 	String s13 = "* Your life will be filled with magical moments *";
  	 	String s14 = "* You will have a pleasant surprise *";
@@ -26,7 +26,7 @@ class Po {
 	 	String s18 = "* Intelligence is the door to freedom and alert attention is the mother of intelligence *";
 	 	String s19 = "* Express yourself: Don't hold back! *";
 	 	String s20 = "* It is not necessary to show others you have change; the change will be obvious *";
-	 	String s21 = "* The time is alway right to do what is right *";
+	 	String s21 = "* Failure is only the opportunity to begin again more intelligently *";
 	 	String s22 = "* Not all closed eye is sleeping nor open eye is seeing *";
 	 	String s23 = "* Whenever possible, keep it simple *";
 	 	String s24 = "* Your dearest wish will come true *";
