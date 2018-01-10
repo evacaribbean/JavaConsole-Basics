@@ -68,6 +68,8 @@ class b03WazzupRocket {
  		System.out.println("               *     *         *   *                                  \\= /");
  		
  		>> continues in the b03 java file >>
+ 		<br>
+ 		[a relative link](b03WazzupRocket.java)
 ```
 <br>
 
