@@ -67,10 +67,9 @@ class b03WazzupRocket {
  		System.out.println("                 *      *    *    *                                  |oo  <");
  		System.out.println("               *     *         *   *                                  \\= /");
  		
- 		>> continues in the b03 java file >>
- 		<br>
- 		[This link](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b03WazzupRocket.java) test 		 
+ 		>> continues in the b03 java file >> 		 		 
 ```
+[This link](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b03WazzupRocket.java) a link test for b03
 <br>
 
 Additional notes and comments will be in each `Java file`.
