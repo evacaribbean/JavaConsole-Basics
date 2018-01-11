@@ -55,7 +55,7 @@ class b07TeamCatAnDog	{
 /*
 
 With two different primitive variables (int and string) I had to "trix" a bit, as I don´t know right now 
-how to fully code in conjunction with system.in scanner. 
+how to fully code in conjunction with system.in scanner. This sequence works swell.
 
 You can try to mix and switch places between int and string. When I did so in some orders, the program 
 "doublejumped". So the user can't fill in the following question. 
