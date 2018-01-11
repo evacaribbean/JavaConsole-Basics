@@ -176,15 +176,33 @@ class b06ClockTable {
 
 <br>
 
-☑ &nbsp; <b>b07TeamCatAnDog.java</b><br>
+☑ &nbsp; [<b>b07TeamCatAnDog.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b07TeamCatAnDog.java)
+<br>
 ``` 
-On it's way... 🐳🐬. .🐠..
+import java.util.Scanner;
+
+class b07TeamCatAnDog	{
+
+	public static void main(String[] args) {
+
+		// The variables
+		int catNum, dogNum, sum;
+		String catName, dogName, userName, city;
+
+		Scanner userWrite = new Scanner(System.in);
+
+		// The statements
+		System.out.println("\n\n\n\t\tWelcome to the Cat & Dog Teams!");
+		System.out.println("\n\tPlease introduce your team by entering your forename,");
+
+
+		>> continues 
 ```
 <br>
 
 ☑ &nbsp; <b>b08LibraryLauncher.java</b><br>
 ``` 
-...
+On it's way... 🐳🐬. .🐠..
 ```
 <br>
 
