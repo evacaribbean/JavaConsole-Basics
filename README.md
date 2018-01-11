@@ -67,6 +67,7 @@ class b03WazzupRocket {
  		System.out.println("                 *      *    *    *                                  |oo  <");
  		System.out.println("               *     *         *   *                                  \\= /");
  		
+
  		>> continues		 		 
 ``` 
 <br>
@@ -86,7 +87,8 @@ Additional notes and comments will be in each `Java file`.
 
 <br>
 
-✅ &nbsp; <b>b04FortuneNumTelling.java</b><br>
+✅ &nbsp; [<b>b04FortuneNumTelling.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b04FortuneNumTelling.java)
+<br>
 ``` javascript
 import java.util.Scanner;
 
@@ -106,7 +108,8 @@ class b04FortuneNumTelling {
 	 	String s8 = "* The time is alway right to do what is right *";
 	 	String s9 = "* Rivers need springs *";
 
-	 	>> continues in the b04 java file >> 
+
+	 	>> continues
 ```
 <br>
 
@@ -126,7 +129,8 @@ class b05AdditionMaker {
 		int n3;
 		int sum;
 
-		>> continues in the b05 java file >> 
+
+		>> continues
 ```
 <br>
 
