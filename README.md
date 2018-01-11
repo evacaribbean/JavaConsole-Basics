@@ -172,11 +172,11 @@ class b06ClockTable {
 
 <br>
 
-> b07TeamCatAn'Dog.java &nbsp; &nbsp;b08LibraryLauncher.java &nbsp; &nbsp;b09[something].java
+> b07TeamCatAnDog.java &nbsp; &nbsp;b08LibraryLauncher.java &nbsp; &nbsp;b09[something].java
 
 <br>
 
-☑ &nbsp; <b>b07TeamCatAn'Dog.java</b><br>
+☑ &nbsp; <b>b07TeamCatAnDog.java</b><br>
 ``` 
 On it's way... 🐳🐬. .🐠..
 ```
