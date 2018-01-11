@@ -113,7 +113,8 @@ class b04FortuneNumTelling {
 ```
 <br>
 
-✅ &nbsp; <b>b05AdditionMaker.java</b><br>
+✅ &nbsp; [<b>b05AdditionMaker.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b05AdditionMaker.java)
+<br>
 ``` javascript
 import java.util.Scanner;
 
@@ -134,7 +135,8 @@ class b05AdditionMaker {
 ```
 <br>
 
-✅ &nbsp; <b>b06ClockTable.java</b><br>
+✅ &nbsp; [<b>b06ClockTable.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b06ClockTable.java)
+<br>
 ``` javascript
 import java.util.Scanner;
 
@@ -157,7 +159,8 @@ class b06ClockTable {
 		Scanner scan = new Scanner(System.in);
 		int num;
 
-		>> continues in the b06 java file >>    
+
+		>> continues   
 ```
  
 <br><br><br><br>
