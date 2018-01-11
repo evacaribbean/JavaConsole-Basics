@@ -3,7 +3,7 @@ import java.util.Scanner;
 class b04FortuneNumTelling {
 
 	public static void main(String[] args) {
-
+	 
 		Scanner userMessage = new Scanner(System.in);
 	 	int n1; 
 	 	String s1 = "* A thrilling time is in your immediate future *";
@@ -172,3 +172,20 @@ class b04FortuneNumTelling {
 			System.out.println(e);
 	}
 } 
+
+
+/*
+
+Another way instead of using "if"/"else if"/"else" is to use "switch"/"case"/"brake". 
+
+            switch (n1) {
+                case 1:
+                    System.out.println("\n\t" + u + n1 + s + s1 + "\n\n\n");
+                    break;
+                case 2:
+                    System.out.println("\n\t" + u + n1 + s + s2 + "\n\n\n");
+                    break;
+
+            a s o
+
+*/        
