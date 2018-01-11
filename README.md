@@ -41,7 +41,7 @@ class b02WazzupCls {
 ```
 <br>
 
-✅ &nbsp; <b>b03WazzupRocket.java</b>
+✅ &nbsp; [<b>b03WazzupRocket.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b03WazzupRocket.java)
 ``` javascript
 class b03WazzupRocket {
 	
@@ -67,9 +67,8 @@ class b03WazzupRocket {
  		System.out.println("                 *      *    *    *                                  |oo  <");
  		System.out.println("               *     *         *   *                                  \\= /");
  		
- 		>> continues in the b03 java file >> 		 		 
-```
-[This link](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b03WazzupRocket.java) a link test for b03
+ 		>> continues		 		 
+``` 
 <br>
 
 Additional notes and comments will be in each `Java file`.
