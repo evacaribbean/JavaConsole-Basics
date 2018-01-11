@@ -176,7 +176,7 @@ class b06ClockTable {
 
 <br>
 
-☑ &nbsp; [<b>b07TeamCatAnDog.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b07TeamCatAnDog.java)
+✅ &nbsp; [<b>b07TeamCatAnDog.java</b>](https://github.com/evacaribbean/JavaConsole-basics/blob/master/b07TeamCatAnDog.java)
 <br>
 ``` javascript
 import java.util.Scanner;
